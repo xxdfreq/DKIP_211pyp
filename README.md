@@ -11,7 +11,7 @@
 Подробнее см. в docs/index.md.
 
 
-- TL- Gavrilin 
+- TL- Gavrilin https://github.com/xxdfreq
 - devNull - Lebedev
 - devFirst - Shipovskiy
 

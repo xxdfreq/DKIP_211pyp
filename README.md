@@ -9,8 +9,8 @@
 .github/workflows — CI-конфигурация
 Подробнее см. в docs/index.md.
 
-# TL- Gavrilin 
-# devNull - Lebedev
-# devFirst - Shipovskiy
+// TL- Gavrilin 
+// devNull - Lebedev
+// devFirst - Shipovskiy
 
-# support's - Aytkulov, Perepelkin, Grisha
+// support's - Aytkulov, Perepelkin, Grisha
